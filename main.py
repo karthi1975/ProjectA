@@ -11,6 +11,7 @@ def print_hi(name):
     print('This is test add')
     print('Second add')
     print('Third add')
+    print('Fourth add')
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
